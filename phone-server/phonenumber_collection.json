@@ -1,0 +1,78 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "luke",
+      "phoneNumbers": [
+        {
+          "mid": "1",
+          "phone": "0422124876",
+          "isActivated": 1
+        },
+        {
+          "mid": "2",
+          "phone": "0435908765",
+          "isActivated": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Max",
+      "phoneNumbers": [
+        {
+          "mid": "1",
+          "phone": "0456987354",
+          "isActivated": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sam",
+      "phoneNumbers": [
+        {
+          "mid": "1",
+          "phone": "0322098657",
+          "isActivated": 0
+        },
+        {
+          "mid": "2",
+          "phone": "0345908786",
+          "isActivated": 1
+        },
+        {
+          "mid": "3",
+          "phone": "0339765231",
+          "isActivated": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Carl",
+      "phoneNumbers": [
+        {
+          "mid": "1",
+          "phone": "0422124666",
+          "isActivated": 1
+        },
+        {
+          "mid": "2",
+          "phone": "0445999777",
+          "isActivated": 0
+        },
+        {
+          "mid": "3",
+          "phone": "0432874632",
+          "isActivated": 0
+        },
+        {
+          "mid": "4",
+          "phone": "0435908999",
+          "isActivated": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "phone-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "update-json-file": "^1.1.1",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}
