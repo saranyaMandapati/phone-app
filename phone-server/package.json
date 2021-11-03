@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "update-json-file": "^1.1.1",
-    "validator": "^12.2.0",
+    "validator": "^13.7.0",
     "yargs": "^15.1.0"
   }
 }
